@@ -1,0 +1,24 @@
+{
+  "name": "gulp-total",
+  "version": "1.0.0",
+  "description": "gulp, node, npm, express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "node",
+    "npm"
+  ],
+  "author": "Amalia Rivera <amaliariveracastillejos\u001b2\u001bq@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
